@@ -1,6 +1,6 @@
 ## Simon Game
 
-[# Simon Game](https://the-simons-game.netlify.app/)
+[Simon Game](https://the-simons-game.netlify.app/)
 
 ## Description
 
